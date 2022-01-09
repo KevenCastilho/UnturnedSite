@@ -1,0 +1,10 @@
+body {
+}
+#naoimprime
+{
+display: none;
+}
+#imprime
+{
+display:block;
+}
